@@ -23,7 +23,7 @@ export default function Footer() {
       </footer>
 
       <a
-        href="https://wa.me/1234567890"
+        href="https://wa.me/message/YUVRLBR2RAEAH1"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-8 right-8 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 z-40"
