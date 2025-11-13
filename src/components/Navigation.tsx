@@ -25,7 +25,7 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => scrollToSection('#')}>
-            <ChefHat className="w-8 h-8 text-blue-600" />
+            <img src="/Lead_city_university-removebg-preview.png" alt="Solistar" className="w-10 h-10" />
             <span className="text-xl font-bold text-slate-900">Solistar Industrial Machines</span>
           </div>
 

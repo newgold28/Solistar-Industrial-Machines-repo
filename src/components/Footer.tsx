@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center text-center">
             <div className="flex items-center gap-2 mb-4">
-              <ChefHat className="w-8 h-8 text-blue-400" />
+              <img src="/logo-s-removebg-preview.png" alt="Solistar" className="w-10 h-10" />
               <span className="text-xl font-bold">Solistar Industrial Machines</span>
             </div>
             <p className="text-slate-400 mb-6 max-w-2xl">
