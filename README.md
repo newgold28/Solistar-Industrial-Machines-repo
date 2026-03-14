@@ -1,1 +1,0 @@
-# Solistar-Industrial-Machines-repo
